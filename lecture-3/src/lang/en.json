@@ -1,0 +1,43 @@
+{
+  "locale": "en",
+  "head_title": "Shop",
+  "controls": {
+    "openCart": "Open",
+    "inCart": "In Cart:",
+    "empty": "empty",
+    "article": {
+      "one": "item",
+      "other": "items"
+    }
+  },
+  "item": {
+    "add": "Add",
+    "remove": "Remove",
+    "count": "pcs"
+  },
+  "cart": {
+    "title": "Cart",
+    "close": "Close",
+    "total": "Total"
+  },
+  "description": {
+    "basket_tool": {
+      "openCart": "Open",
+      "main": "Main",
+      "inCart": "In Cart:",
+      "empty": "empty",
+      "article": {
+        "one": "item",
+        "other": "items"
+      }
+    },
+    "body": {
+      "category": "Category:",
+      "country": "Manufacturer country:",
+      "year": "Year of manufacture:",
+      "cost": "Cost:"
+    },
+    "add": "Add"
+  },
+  "loading": "Loading..."
+}

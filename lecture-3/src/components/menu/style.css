@@ -1,0 +1,19 @@
+.Menu {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px;
+  font-size: 18px;
+}
+
+.Menu-link-container {
+  width: 50%
+}
+
+.Menu-link {
+  color: #0087E9;
+  text-decoration: none;
+}
+
+.Menu-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,7 @@
+.List {
+  overflow: auto;
+}
+
+.List-item {
+  border-bottom: 1px dashed #ccc;
+}

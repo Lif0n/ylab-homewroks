@@ -1,0 +1,62 @@
+div{
+  font-family: Arial;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+button{
+  font-size: 13px;
+}
+
+.Item {
+  display: flex;
+  justify-content: flex-start;
+  transition: background-color 1s;
+}
+
+.Item_selected {
+  background: #75aaf1;
+  color: #fff;
+}
+
+.Item-code {
+  padding: 20px 10px 20px 20px;
+}
+
+.Item-title {
+  width: 50%;
+  padding: 20px 10px;
+}
+
+.Item-price {
+  width: 50%;
+  font-size: 18px;
+  padding: 20px 0px;
+  text-align: end;
+}
+
+.Item-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 20px 20px 10px;
+}
+
+.Item-amount{
+  width: 15%;
+  font-size: 18px;
+  padding: 20px 10px;
+  text-align: end;
+}
+
+.hidden{
+  width: 0;
+  visibility: collapse;
+}
+
+.w25{
+  width: 25%;
+}
+
+.w50{
+  width: 50%;
+}

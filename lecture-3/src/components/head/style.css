@@ -1,0 +1,17 @@
+.Head {
+  height: 80px;
+  background: #f5f5f5;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Head h1 {
+  margin: 0;
+  padding: 20px 20px 10px;
+}
+
+.Head select{
+  align-self: center;
+  margin: 0px 20px;
+  padding: 5px;
+}

@@ -1,0 +1,13 @@
+.DescriptionBody{
+  margin: 20px 40px;
+}
+.DescriptionBody * {
+  margin: 20px 0px;
+}
+.DescriptionBody-price{
+  font-size: 24px;
+}
+.DescriptionBody p{
+  font-size: 18px;
+  font-family: Arial;
+}

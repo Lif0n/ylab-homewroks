@@ -1,0 +1,21 @@
+.Total-price {
+  display: flex;
+  padding-right: 100px;
+  gap: 10%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  justify-content: end;
+  flex-shrink: 0;
+}
+
+.Price-text {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: end;
+}
+
+.Price {
+  font-size: 18px;
+  font-weight: 700;
+  text-align: end;
+}
